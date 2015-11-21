@@ -9,6 +9,6 @@ MeetingPlace supports real-time sharing of slides (PDF and any document readable
   * Small group collaboration 
   * On-line classes (50 or less)
 
-For more information on the latest release -- including installation instructions, demo server, API, and overview of architecture -- see [http://docs.bigbluebutton.org/](http://docs.bigbluebutton.org/).
+For more information on the latest release -- including installation instructions, demo server, API, and overview of architecture -- see [http://e-psn.github.io/meetingplace/](http://e-psn.github.io/meetingplace/).
 
 MeetingPlace and the MeetingPlace Logo are trademarks of [E-PSN] (http://www.e-psn.gr) .
