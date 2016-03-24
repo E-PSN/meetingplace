@@ -1,5 +1,5 @@
 function setTitle(title){
-    document.title= "BigBlueButton - " + title;
+    document.title= "MeetingPlace - " + title;
 }
 
 function clientReady(message){
